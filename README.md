@@ -9,7 +9,7 @@
 
 ---
 
-PhD-level psychometrician with 15+ years of experience designing, validating, and leading large-scale assessment systems across national and international contexts. Deep expertise in Item Response Theory, Computerised Adaptive Testing (CAT — PhD focus), Rasch modelling, fairness analysis, and the responsible application of AI and machine learning in assessment.
+PhD-level psychometrician with 15+ years of experience designing, validating, and leading large-scale assessment systems across national and international contexts. Deep expertise in Item Response Theory, Computerised Adaptive Testing, Rasch modelling, and the responsible application of AI and machine learning in assessment.
 
 ---
 
